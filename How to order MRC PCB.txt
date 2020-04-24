@@ -1,0 +1,10 @@
+How to Order PCB
+
+1. Go to https://cart.jlcpcb.com/
+
+2. Upload "Gerber_MRC PCB.zip" folder to the site
+
+3. Purchase number of desired PCBs
+
+
+
